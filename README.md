@@ -1,1 +1,1 @@
-# This repository is for my datastructure classes from Sejongu University by prof. Jawad Tanvir.
+# This repository is for my datastructure classes from Sejong University by prof. Jawad Tanvir.
